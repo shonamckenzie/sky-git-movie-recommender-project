@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <programmeData>
+    <programme id="1">
+            <name>A nightmare on Elm Street</name>
+            <imagePath>images/ElmStreet.jpeg</imagePath>
+            <mood>Scared</mood>   
+    </programme>
+    <programme id="2">       
+            <name>School of Rock</name>
+            <imagePath>images/School.jpeg</imagePath>
+            <mood>Calm</mood>    
+    </programme>
+    <programme id="3"> 
+            <name>First Blood</name>
+            <imagePath>images/First.jpeg</imagePath>
+            <mood>Wide Awake</mood>
+    </programme>
+     <programme id="4">
+            <name>The Shawshank Redemption</name>
+            <imagePath>images/Shawshank.jpeg</imagePath>
+            <mood>Wide Awake</mood>   
+    </programme>
+     <programme id="5">
+            <name>The Godfather</name>
+            <imagePath>images/Godfather.jpeg</imagePath>
+            <mood>Wide Awake</mood>   
+    </programme>
+     <programme id="6">
+            <name>Schindlers List</name>
+            <imagePath>images/Schindler.jpeg</imagePath>
+            <mood>Wide Awake</mood>   
+    </programme>
+     <programme id="7">
+            <name>Pulp Fiction</name>
+            <imagePath>images/Pulp.jpeg</imagePath>
+            <mood>Fearless</mood>   
+    </programme>
+     <programme id="8">
+            <name>Lord of the Rings: Return of the king</name>
+            <imagePath>images/lotr_return.jpeg</imagePath>
+            <mood>Fearless</mood>   
+    </programme>
+     <programme id="9">
+            <name>Lord of the Rings: The Fellowship of the ring</name>
+            <imagePath>images/lotr_fellowship.jpeg</imagePath>
+            <mood>Fearless</mood>   
+    </programme>
+     <programme id="10">
+            <name>Lord of the Rings: Two Towers</name>
+            <imagePath>images/lotr_towers.jpeg</imagePath>
+            <mood>Fearless</mood>   
+    </programme>
+     <programme id="11">
+            <name>Finding Nemo</name>
+            <imagePath>images/Nemo.jpg</imagePath>
+            <mood>Sad</mood>   
+    </programme>
+     <programme id="12">
+            <name>Avatar</name>
+            <imagePath>images/Avatar.jpeg</imagePath>
+            <mood>Sad</mood>   
+    </programme>
+     <programme id="13">
+            <name>Forest Gump</name>
+            <imagePath>images/Gump.jpeg</imagePath>
+            <mood>Sad</mood>   
+    </programme>
+     <programme id="14">
+            <name>The Polar Express</name>
+            <imagePath>images/Polar.jpeg</imagePath>
+            <mood>Sad</mood>   
+    </programme>
+     <programme id="15">
+            <name>The Green Mile</name>
+            <imagePath>images/Green.jpeg</imagePath>
+            <mood>Fearless</mood>   
+    </programme>
+     <programme id="16">
+            <name>Fight Club</name>
+            <imagePath>images/fightclub.jpeg</imagePath>
+            <mood>Fearless</mood>   
+    </programme>
+     <programme id="17">
+            <name>Inception</name>
+            <imagePath>images/Inception.jpeg</imagePath>
+            <mood>Calm</mood>   
+    </programme>
+     <programme id="18">
+            <name>Silence of the Lambs</name>
+            <imagePath>images/lambs.jpeg</imagePath>
+            <mood>Scared</mood>   
+    </programme>
+     <programme id="19">
+            <name>Leon</name>
+            <imagePath>images/leon.jpeg</imagePath>
+            <mood>Fearless</mood>   
+    </programme>
+     <programme id="20">
+            <name>Interstellar</name>
+            <imagePath>images/interstellar.jpeg</imagePath>
+            <mood>Calm</mood>   
+    </programme>
+     <programme id="21">
+            <name>Back to the Future</name>
+            <imagePath>images/backtofuture.jpeg</imagePath>
+            <mood>Calm</mood>   
+    </programme>
+     <programme id="22">
+            <name>WALL.E</name>
+            <imagePath>images/walle.jpeg</imagePath>
+            <mood>Calm</mood>   
+    </programme>
+     <programme id="23">
+            <name>Cars</name>
+            <imagePath>images/cars.jpeg</imagePath>
+            <mood>Calm</mood>   
+    </programme>
+     <programme id="24">
+            <name>Amelie</name>
+            <imagePath>images/amelie.jpeg</imagePath>
+            <mood>Agitated</mood>   
+    </programme>
+        <programme id="25">
+            <name>Toy Story</name>
+            <imagePath>images/toystory.jpeg</imagePath>
+            <mood>Agitated</mood>   
+    </programme>
+        <programme id="26">
+            <name>Up</name>
+            <imagePath>images/up.jpeg</imagePath>
+            <mood>Agitated</mood>   
+    </programme>
+        <programme id="27">
+            <name>Pans Labyrinth</name>
+            <imagePath>images/pans.jpeg</imagePath>
+            <mood>Agitated</mood>   
+    </programme>
+        <programme id="28">
+            <name>Footloose</name>
+            <imagePath>images/footloose.jpeg</imagePath>
+            <mood>Agitated</mood>   
+    </programme>
+        <programme id="29">
+            <name>The Jungle Book</name>
+            <imagePath>images/junglebook.jpeg</imagePath>
+            <mood>Agitated</mood>   
+    </programme>
+        <programme id="30">
+            <name>The Wolf of Wall Street</name>
+            <imagePath>images/wolf.jpeg</imagePath>
+            <mood>Wide Awake</mood>   
+    </programme>
+        <programme id="31">
+            <name>A Beautiful Mind</name>
+            <imagePath>images/mind.jpeg</imagePath>
+            <mood>Sad</mood>   
+    </programme>
+        <programme id="32">
+            <name>Fargo</name>
+            <imagePath>images/fargo.jpeg</imagePath>
+            <mood>Scared</mood>   
+    </programme>
+        <programme id="33">
+            <name>Kill Bill</name>
+            <imagePath>images/bill.jpeg</imagePath>
+            <mood>Scared</mood>   
+    </programme>
+        <programme id="34">
+            <name>Shutter Island</name>
+            <imagePath>images/shutter.jpeg</imagePath>
+            <mood>Scared</mood>   
+    </programme>
+        <programme id="35">
+            <name>Ghostbusters</name>
+            <imagePath>images/ghostbusters.jpeg</imagePath>
+            <mood>Agitated</mood>   
+    </programme>
+        <programme id="36">
+            <name>Rush</name>
+            <imagePath>images/rush.jpeg</imagePath>
+            <mood>Happy</mood>   
+    </programme>
+        <programme id="37">
+            <name>Hotel Rwanda</name>
+            <imagePath>images/rwanda.jpeg</imagePath>
+            <mood>Calm</mood>   
+    </programme>
+        <programme id="38">
+            <name>Mad Max</name>
+            <imagePath>images/max.jpeg</imagePath>
+            <mood>Scared</mood>   
+    </programme>
+        <programme id="39">
+            <name>Monsters Inc</name>
+            <imagePath>images/monsters.jpeg</imagePath>
+            <mood>Happy</mood>   
+    </programme>
+        <programme id="40">
+            <name>Groundhog Day</name>
+            <imagePath>images/groundhog.jpeg</imagePath>
+            <mood>Tired</mood>   
+    </programme>
+        <programme id="41">
+            <name>Jaws</name>
+            <imagePath>images/jaws.jpeg</imagePath>
+            <mood>Scared</mood>   
+    </programme>
+        <programme id="42">
+            <name>Clueless</name>
+            <imagePath>images/clueless.jpeg</imagePath>
+            <mood>Tired</mood>   
+    </programme>
+        <programme id="43">
+            <name>Antz</name>
+            <imagePath>images/antz.jpeg</imagePath>
+            <mood>Tired</mood>   
+    </programme>
+        <programme id="44">
+            <name>Bridget Jones Diary</name>
+            <imagePath>images/bridget.jpeg</imagePath>
+            <mood>Tired</mood>   
+    </programme>
+        <programme id="45">
+            <name>The Devil Wears Prada</name>
+            <imagePath>images/devil.jpeg</imagePath>
+            <mood>Tired</mood>   
+    </programme>
+        <programme id="46">
+            <name>E.T.</name>
+            <imagePath>images/et.jpeg</imagePath>
+            <mood>Tired</mood>   
+    </programme>
+        <programme id="47">
+            <name>Twilight</name>
+            <imagePath>images/twilight.jpeg</imagePath>
+            <mood>Tired</mood>   
+    </programme>
+        <programme id="48">
+            <name>Green Lantern</name>
+            <imagePath>images/lantern.jpeg</imagePath>
+            <mood>Wide Awake</mood>   
+    </programme>
+        <programme id="49">
+            <name>Superman</name>
+            <imagePath>images/superman.jpeg</imagePath>
+            <mood>Wide Awake</mood>   
+    </programme>
+        <programme id="50">
+            <name>Captain America</name>
+            <imagePath>images/america.jpeg</imagePath>
+            <mood>Wide Awake</mood>   
+    </programme>
+     <programme id="51">
+            <name>Shrek</name>
+            <imagePath>images/shrek.jpeg</imagePath>
+            <mood>Sad</mood>   
+    </programme>
+     <programme id="52">
+            <name>Alien</name>
+            <imagePath>images/alien.jpeg</imagePath>
+            <mood>Wide Awake</mood>   
+    </programme>
+     <programme id="53">
+            <name>Hocus Pocus</name>
+            <imagePath>images/hocus.jpeg</imagePath>
+            <mood>Sad</mood>   
+    </programme>
+     <programme id="54">
+            <name>Grease</name>
+            <imagePath>images/grease.jpeg</imagePath>
+            <mood>Happy</mood>   
+    </programme>
+     <programme id="55">
+            <name>Sister Act</name>
+            <imagePath>images/sister.jpeg</imagePath>
+            <mood>Happy</mood>   
+    </programme>
+     <programme id="56">
+            <name>Miss Congeniality</name>
+            <imagePath>images/miss.jpeg</imagePath>
+            <mood>Happy</mood>   
+    </programme>
+     <programme id="57">
+            <name>Mamma Mia</name>
+            <imagePath>images/mia.jpeg</imagePath>
+            <mood>Happy</mood>   
+    </programme>
+     <programme id="58">
+            <name>Pitch Perfect</name>
+            <imagePath>images/pitch.jpeg</imagePath>
+            <mood>Happy</mood>   
+    </programme>
+    </programmeData>
