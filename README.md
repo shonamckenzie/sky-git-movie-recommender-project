@@ -3,3 +3,10 @@ Once they have made their selection, the application will recommend some content
 
 There is a feature to upload content data in xml format
 
+
+<div> tag defines a division or section
+<a> tag is an element or anchor element used to create a hyperlink to another webpage
+
+navbar-brand - for your company, product or project name
+card is a flexible container - replacing panels
+card-deck - set of equal width & height cards
