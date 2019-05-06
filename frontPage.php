@@ -1,5 +1,5 @@
 
-<!-- Slider -->
+<!-- Slider https://www.w3schools.com/howto/howto_js_rangeslider.asp-->
 
  
 <h4 class="pb-3 text-center">Please select your mood</h4>

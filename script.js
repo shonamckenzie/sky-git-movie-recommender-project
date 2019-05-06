@@ -1,6 +1,6 @@
 
 
-// funtion to get the data from file
+// funtion to get the data from file https://www.w3schools.com/xml/dom_httprequest.asp
 function getData(value) {
     var moodList = ['Agitated', 'Calm', 'Happy', 'Sad', 'Tired', 'Wide Awake', 'Scared', 'Fearless'];
     var xhttp = new XMLHttpRequest(); //get data after page has loaded
@@ -13,7 +13,7 @@ function getData(value) {
     xhttp.send();
 }
 
-// function to retrieve image and name for selected Mood
+// function to retrieve image and name for selected Mood https://www.ajax-tutor.com/160/get-data-from-responsexml/
 function mood(data, selectedMood) {
     var xml = data.responseXML; //responseXML returns xml doc and assign to xml
     var parent = xml.getElementsByTagName("programme"); //get element collection
